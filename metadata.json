@@ -1,0 +1,6 @@
+{
+  "name": "ReelTales",
+  "description": "Scrollable immersive audio & reading stories featuring multi-language narrations and voice artists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
